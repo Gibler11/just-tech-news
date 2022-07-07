@@ -1,3 +1,6 @@
+# Challenge Desciption
+This challenge is to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. Heroku will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+
 # Acceptance Criteria
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
@@ -32,6 +35,9 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+
+# Notes/Credits
+Used the module and repo for reference. Worked with a tutor. Worked in a group. 
 
 # Links
 https://github.com/Gibler11/just-tech-news.git
