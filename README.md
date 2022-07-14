@@ -37,7 +37,7 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 
 # Notes/Credits
-Used the module and repo for reference. Worked with a tutor. Worked in a group. 
+Used the module and repo for reference. Worked with a tutor. Worked in a group. Late do to project 2. 
 
 # Links
 https://github.com/Gibler11/just-tech-news.git
