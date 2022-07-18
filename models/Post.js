@@ -1,3 +1,4 @@
+const { createPromptModule } = require("inquirer");
 const {Model, DataTypes} = require("sequelize");
 const sequelize = require("../config/connection");
 
@@ -36,4 +37,4 @@ Post.init(
         }
 );
     
-model.exports= Post;
+module.exports= Post;
