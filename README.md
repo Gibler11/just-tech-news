@@ -43,3 +43,5 @@ Used the module and repo for reference. Worked with a tutor twice. Worked in a g
 https://github.com/Gibler11/just-tech-news.git
 
 /git.heroku.com/agile-everglades-34039.git
+
+https://drive.google.com/file/d/1UBW8D0RfqOYQ-A3egvPxvMqpwS6HXziU/view?usp=sharing
